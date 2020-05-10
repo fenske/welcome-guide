@@ -4,4 +4,4 @@
 
 # CoreSkills Wiki
 
-This repo is used to host the CoreSkills wiki. Jump [here](https://github.com/coreskills/wiki/wiki) for a quick start.
+This repo is used to host the CoreSkills docs. Jump [here](https://github.com/coreskills/wiki/wiki) for a quick start.
